@@ -1,0 +1,11 @@
+GLCD   ARDUİNO
+RS   > 53
+RW   > 51
+E    > 52
+
+
+
+ROTARY ECHONDER   ARDUİNO 
+PIN_A          >   46
+PIN_B          >   47
+SW             >   12
